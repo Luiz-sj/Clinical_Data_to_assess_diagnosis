@@ -4,7 +4,7 @@ O projeto consiste na tentativa de resolver o desafio do *Kaggle* proposto pelo 
 
 O *dataset* possui informações sobre demografia, doenças prévias, exames de sangue e sinais vitais de pacientes diagnosticados com Covid 19, o mesmo dataset informa se e quando o paciente foi internado em leitos de terapia intensiva. Essas informações vão alimentar diversos modelos de *machine learning* que possam prever a necessidade de internação de novos pacientes.
 
-O trabalho será dividido em 4 notebooks que vão abordar 9 capítulos de acordo com a seguinte distribuição:
+O trabalho será dividido em 4 notebooks de acordo com a seguinte distribuição:
 
 ### [Capítulo 1](https://github.com/Luiz-sj/Projeto-Final---Bootcamp-Alura-Data-Science-2021/blob/main/Cap%C3%ADtulo_1.ipynb):
 - Seção 1.1: Importação dos dados e análises iniciais;
@@ -22,7 +22,7 @@ O trabalho será dividido em 4 notebooks que vão abordar 9 capítulos de acordo
 - Seção 3.2: Salvando o modelo;
 
 ### [Capítulo 4](https://github.com/Luiz-sj/Projeto-Final---Bootcamp-Alura-Data-Science-2021/blob/main/Cap%C3%ADtulo_4.ipynb):
-- Carregando modelo;
+- Carregando o modelo final e visualização de acurácia;
 
 ### Referências Bibliográficas:
 - [1]: COVID-19 - Clinical Data to assess diagnosis | Kaggle;
