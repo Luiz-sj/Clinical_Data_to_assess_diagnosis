@@ -6,22 +6,22 @@ O *dataset* possui informações sobre demografia, doenças prévias, exames de 
 
 O trabalho será dividido em 4 notebooks que vão abordar 9 capítulos de acordo com a seguinte distribuição:
 
-### Capítulo 1:
+### [Capítulo 1](https://github.com/Luiz-sj/Projeto-Final---Bootcamp-Alura-Data-Science-2021/blob/main/Cap%C3%ADtulo_1.ipynb):
 - Seção 1.1: Importação dos dados e análises iniciais;
 - Seção 1.2: Tratamentos dos dados e considerações para aplicação em modelos de *machine learning*;
 
-### Capítulo 2:
+### [Capítulo 2](https://github.com/Luiz-sj/Projeto-Final---Bootcamp-Alura-Data-Science-2021/blob/main/Cap%C3%ADtulo_2.ipynb):
 - Seção 2.1: Regressão logística e métricas de acurácia;
 - Seção 2.2: Árvore de decisão;
 - Seção 2.3: Redução de efeitos de aleatoriedade;
 - Seção 2.4: Hiperparâmetros;
 - Seção 2.5: *Random Forest*;
 
-### Capítulo 3:
+### [Capítulo 3](https://github.com/Luiz-sj/Projeto-Final---Bootcamp-Alura-Data-Science-2021/blob/main/Cap%C3%ADtulo_3.ipynb):
 - Seção 3.1: Otimização de hiperparâmetros;
 - Seção 3.2: Salvando o modelo;
 
-### Capítulo 4:
+### [Capítulo 4](https://github.com/Luiz-sj/Projeto-Final---Bootcamp-Alura-Data-Science-2021/blob/main/Cap%C3%ADtulo_4.ipynb):
 - Carregando modelo;
 
 ### Referências Bibliográficas:
